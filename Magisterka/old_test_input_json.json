@@ -1,0 +1,8 @@
+{
+  "czas": "0.0012033567",
+	"id_robot" : "g1r1",
+	"geometry_msg" : "0.1,0.0,0.5,0.0",
+	"rozkaz" : "run",
+	"kod_akcji" : "00010",
+	"kod_error" : "0000"
+}
